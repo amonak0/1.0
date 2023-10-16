@@ -83,3 +83,12 @@ main>.contact{
   align-content: center;
   gap: 40px;
 }
+
+main>.png{
+  width: 1920px;
+  height: 604px;
+  background-image: url(../img/Rectangle\ 2.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
